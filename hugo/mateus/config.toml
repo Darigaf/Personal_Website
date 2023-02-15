@@ -1,0 +1,6 @@
+baseURL = 'https://mateflix.duckdns.org:8920/'
+languageCode = 'pt'
+defaultContentLanguage = 'pt'
+title = 'Mateus Bernardo'
+theme = 'lugo'
+timeZone= 'America/Sao_Paulo'
