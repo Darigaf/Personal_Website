@@ -1,5 +1,5 @@
 #! /bin/bash
-eval 'ssh agent -s' && ssh-add ~/.ssh/.chave_gitea
+eval `ssh-agent -s` && ssh-add /home/merico/.ssh/.chave_gitea
 git add ./*
 echo "Insert git commit message and press enter"
 read mensagem
@@ -11,5 +11,5 @@ case $fazer in
 esac
 rm -dr /home/merico/Lets_Encrypt/config/www/*
 hugo && cp -r public/* /home/merico/Lets_Encrypt/config/www/
-ssh-add ~/.chave_rsync
+ssh-add /home/merico/.ssh/.chave_rsync
 rsync -rtvzP public/* rsync@mateusbernardo.xyz:/var/www/blog/
