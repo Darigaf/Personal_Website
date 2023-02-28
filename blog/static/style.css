@@ -1,6 +1,7 @@
 body {
 	font-family: sans-serif ;
 	background-image: url("background.jpg");
+	#background-color: #21003B;
 	#color: #EC67FF;
 	color: #e2b0ff;
 }
@@ -11,7 +12,7 @@ main {
 	margin-right: auto ;
 	#background-color: #3f0071;
 	background-color: #21003B;
-	padding: 10px;
+	padding: 40px;
 	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.7), 0 0px 40px 0 rgba(0, 0, 0, 0.7);
 }
 
@@ -30,9 +31,10 @@ footer {
 	color: #e2b0ff;
 	text-align: center ;
 	clear: both ;
-	position: absolute;
-	bottom: 0;
+	position: sticky;
+	margin-top: 10px;
 	width: 100% ;
+	#border-width: 15px;
 	background-color: #381155;
 }
 
