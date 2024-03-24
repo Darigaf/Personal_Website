@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mateusbernardo.xyz/posts/</loc>
+    <lastmod>2023-02-27T22:45:47-03:00</lastmod>
+  </url><url>
+    <loc>https://mateusbernardo.xyz/posts/searching/</loc>
+    <lastmod>2023-02-27T22:45:47-03:00</lastmod>
+  </url><url>
+    <loc>https://mateusbernardo.xyz/</loc>
+    <lastmod>2023-02-27T22:45:47-03:00</lastmod>
+  </url><url>
+    <loc>https://mateusbernardo.xyz/posts/mr_robot/</loc>
+    <lastmod>2023-02-20T21:39:56-03:00</lastmod>
+  </url><url>
+    <loc>https://mateusbernardo.xyz/about/</loc>
+    <lastmod>2023-02-20T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>https://mateusbernardo.xyz/categories/</loc>
+  </url><url>
+    <loc>https://mateusbernardo.xyz/tags/</loc>
+  </url>
+</urlset>

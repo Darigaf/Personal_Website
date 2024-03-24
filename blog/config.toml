@@ -1,0 +1,6 @@
+baseURL = 'https://mateusbernardo.xyz/'
+languageCode = 'pt'
+defaultContentLanguage = 'pt'
+title = 'Mateus Bernardo'
+theme = 'lugo'
+timeZone= 'America/Sao_Paulo'
