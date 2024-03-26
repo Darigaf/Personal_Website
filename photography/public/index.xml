@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mateus Bernardo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mateus Bernardo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <managingEditor>mateusbernardo@protonmail.com (Mateusb Bernardo)</managingEditor>
+    <webMaster>mateusbernardo@protonmail.com (Mateusb Bernardo)</webMaster>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fashion &amp; Beauty</title>
+      <link>http://localhost:1313/fashion-beauty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mateusbernardo@protonmail.com (Mateusb Bernardo)</author>
+      <guid>http://localhost:1313/fashion-beauty/</guid><description>Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.</description></item>
+    <item>
+      <title>Nature</title>
+      <link>http://localhost:1313/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mateusbernardo@protonmail.com (Mateusb Bernardo)</author>
+      <guid>http://localhost:1313/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+    <item>
+      <title>Corrida</title>
+      <link>http://localhost:1313/esportes/corrida/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 -0300</pubDate><author>mateusbernardo@protonmail.com (Mateusb Bernardo)</author>
+      <guid>http://localhost:1313/esportes/corrida/</guid><media:content url="http://localhost:1313/esportes/corrida/corrida1_hu2397459b4df1dd7ac7ce762c5ec9aa85_6348260_900x600_fill_q100_catmullrom_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/esportes/corrida/corrida1_hu2397459b4df1dd7ac7ce762c5ec9aa85_6348260_900x600_fill_q100_catmullrom_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Cats</title>
+      <link>http://localhost:1313/animals/cats/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0300</pubDate><author>mateusbernardo@protonmail.com (Mateusb Bernardo)</author>
+      <guid>http://localhost:1313/animals/cats/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Dogs</title>
+      <link>http://localhost:1313/animals/dogs/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 -0300</pubDate><author>mateusbernardo@protonmail.com (Mateusb Bernardo)</author>
+      <guid>http://localhost:1313/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>
