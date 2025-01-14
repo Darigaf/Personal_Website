@@ -1,5 +1,5 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: Portfólio Mateus Bernardo
 #lastmod: 2023-07-05
 title: Mateus Bernardo
 featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory

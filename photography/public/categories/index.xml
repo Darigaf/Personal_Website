@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mateus Bernardo</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://fotografia.mateusbernardo.xyz/categories/</link>
     <description>Recent content in Categories on Mateus Bernardo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <managingEditor>mateusbernardo@protonmail.com (Mateusb Bernardo)</managingEditor>
-    <webMaster>mateusbernardo@protonmail.com (Mateusb Bernardo)</webMaster><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>mateusbernardo@protonmail.com (Mateus Bernardo)</managingEditor>
+    <webMaster>mateusbernardo@protonmail.com (Mateus Bernardo)</webMaster><atom:link href="https://fotografia.mateusbernardo.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

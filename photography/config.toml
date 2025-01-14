@@ -6,10 +6,10 @@ theme = 'gallery'
 timeZone= 'America/Sao_Paulo'
 timeout = "120s"
 defaultTheme = "dark"
-description = "Example site for hugo-theme-gallery"
+description = "Portfólio Mateus Bernardo"
   [params.author]
     email = "mateusbernardo@protonmail.com"
-    name = "Mateusb Bernardo"
+    name = "Mateus Bernardo"
   [params.socialIcons]
     email = "mailto:mateusbernardo@protonmail.com"
 

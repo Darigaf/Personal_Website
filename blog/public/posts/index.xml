@@ -1,33 +1,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Mateus Bernardo</title>
-	<link>https://mateusbernardo.xyz/posts/</link>
+	<link>http://localhost:1313/posts/</link>
 	<description>Recent content in Posts on Mateus Bernardo</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>pt</language>
 	<lastBuildDate>Mon, 27 Feb 2023 22:45:47 -0300</lastBuildDate>
     
-        <atom:link href="https://mateusbernardo.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Fotos</title>
-		<link>https://mateusbernardo.xyz/fotos/</link>
+		<link>http://localhost:1313/fotos/</link>
 		<pubDate>Sun, 24 Mar 2024 18:02:52 -0300</pubDate>
 		
-		<guid>https://mateusbernardo.xyz/fotos/</guid>
-		<description></description>
+		<guid>http://localhost:1313/fotos/</guid>
+		<description>&lt;h1 id=&#34;algumas-fotografias-que-já-tirei&#34;&gt;Algumas Fotografias Que Já Tirei&lt;/h1&gt;
+
+ &lt;figure &gt;&lt;img src=&#34;../fotografias/mulher2.jpg&#34;&gt;&lt;/figure&gt;
+
+</description>
 	</item>
 	
 	<item>
 		<title>Searching</title>
-		<link>https://mateusbernardo.xyz/posts/searching/</link>
+		<link>http://localhost:1313/posts/searching/</link>
 		<pubDate>Mon, 27 Feb 2023 22:45:47 -0300</pubDate>
 		
-		<guid>https://mateusbernardo.xyz/posts/searching/</guid>
+		<guid>http://localhost:1313/posts/searching/</guid>
 		<description>&lt;h1 id=&#34;buscando&#34;&gt;Buscando&lt;/h1&gt;
 
-&lt;figure &gt;&lt;img src=&#34;https://mateusbernardo.xyz/filmes/searching-poster.jpg&#34; title=&#34;Poster do filme em inglês&#34;&gt;&lt;/figure&gt;
+&lt;figure &gt;&lt;img src=&#34;http://localhost:1313/filmes/searching-poster.jpg&#34; title=&#34;Poster do filme em inglês&#34;&gt;&lt;/figure&gt;
 
 &lt;p&gt;Acabei de assistir o filme Searching(do inglês, buscando). Escolhi ele de forma aleatória dentre o meu catálogo de 120 filmes e o achei interessante. O filme em si tem classificação indicativa para 14 anos e, devido a isso, tem uma trama consideravelmente mais simples. Porém isso não impede de ser um filme interessante.&lt;/p&gt;
 &lt;h3 id=&#34;história&#34;&gt;História&lt;/h3&gt;
@@ -44,10 +48,10 @@ Porém, um fator que trouxe muito deleite ao assistir o filme é a forma como el
 	
 	<item>
 		<title>Mr. Robot</title>
-		<link>https://mateusbernardo.xyz/posts/mr_robot/</link>
+		<link>http://localhost:1313/posts/mr_robot/</link>
 		<pubDate>Mon, 20 Feb 2023 21:39:56 -0300</pubDate>
 		
-		<guid>https://mateusbernardo.xyz/posts/mr_robot/</guid>
+		<guid>http://localhost:1313/posts/mr_robot/</guid>
 		<description>&lt;h1 id=&#34;porque-você-deve-assistir-mr-robot&#34;&gt;Porque você deve assistir Mr. Robot&lt;/h1&gt;
 &lt;p&gt;Se você tem algum interesse na área de computação, hacking ou somente quer assistir a uma história realista e que te deixa a todo momento querendo saber o que vai acontecer no próximo episódio assista Mr. Robot. Assisti a série com minha amável mãe, que gostou da série tanto quanto eu. E, até onde eu sei, ela não sabe nada de hacking(pelo menos eu espero).&lt;/p&gt;
 &lt;h1 id=&#34;sobre-a-série&#34;&gt;Sobre a Série&lt;/h1&gt;
@@ -61,10 +65,10 @@ Ela segue um ritmo linear porém com algumas quebras e flashbacks,&lt;/p&gt;
 	
 	<item>
 		<title>Sobre Mim</title>
-		<link>https://mateusbernardo.xyz/about/</link>
+		<link>http://localhost:1313/about/</link>
 		<pubDate>Mon, 20 Feb 2023 00:00:00 -0300</pubDate>
 		
-		<guid>https://mateusbernardo.xyz/about/</guid>
+		<guid>http://localhost:1313/about/</guid>
 		<description>&lt;div style=&#34;text-align: center;&#34;&gt;
 
 &lt;/div&gt;
